@@ -85,6 +85,10 @@
     display: inline;
 }
 
+.formulario__botao {
+    cursor: pointer;
+}
+
 .formulario__botao,
 .camera__botao {
     background: var(--azul-claro);
